@@ -1,0 +1,10 @@
+﻿__pycache__/
+*.pyc
+*.pyo
+.env
+.venv/
+node_modules/
+dist/
+backend/db.sqlite3
+backend/logs/
+backups/

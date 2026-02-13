@@ -1,0 +1,6 @@
+<svg width="220" height="64" viewBox="0 0 220 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect x="1.5" y="1.5" width="61" height="61" rx="18.5" fill="#FFF8F4" stroke="#E9C7BA" stroke-width="3"/>
+  <path d="M32 15C32.8284 15 33.5 15.6716 33.5 16.5V30.5H47.5C48.3284 30.5 49 31.1716 49 32C49 32.8284 48.3284 33.5 47.5 33.5H33.5V47.5C33.5 48.3284 32.8284 49 32 49C31.1716 49 30.5 48.3284 30.5 47.5V33.5H16.5C15.6716 33.5 15 32.8284 15 32C15 31.1716 15.6716 30.5 16.5 30.5H30.5V16.5C30.5 15.6716 31.1716 15 32 15Z" fill="#AD3D2F"/>
+  <text x="76" y="30" fill="#FCEBDF" font-size="17" font-family="Segoe UI, sans-serif" font-weight="700">CareFlow</text>
+  <text x="76" y="49" fill="#D5BAA7" font-size="13" font-family="Segoe UI, sans-serif">Hospital Suite</text>
+</svg>
