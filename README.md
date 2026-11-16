@@ -18,6 +18,7 @@ Full-stack Hotel PMS using Django REST Framework + React (Vite).
 - Security hardening:
   - Production-only secure cookie/HSTS/proxy settings
   - Strict secret key handling in non-debug mode
+
   - Logging to file + console
 - Backup tooling:
   - PostgreSQL dump script
